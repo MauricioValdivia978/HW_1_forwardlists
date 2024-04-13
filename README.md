@@ -3,5 +3,7 @@
 Integrantes:
 
  Mauricio Valdivia
+ 
  Anthony Chavez Ayme
+ 
  Bladimir Alferez
